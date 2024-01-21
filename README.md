@@ -15,7 +15,7 @@
 - ✅ 智能指针的简易实现: [SmartPointer](https://github.com/s2drag0n/cpp-smart-ptr-toy)
 - ✅ 带噪联邦学习研究: [FedNoisyLabelLearning](https://github.com/s2drag0n/FedNoisyLabelLearning)
 - ✅ 操作系统、数据结构、Linux学习笔记: [notebook](https://github.com/s2drag0n/notebooks)
-- ✅ C++笔记代码: 
+- ✅ C++笔记代码: [CppNote](https://github.com/s2drag0n/HeiMa_cpp_code)
 - ✅ 使用STL实现的演讲比赛流程管理系统: [STLSpeech](https://github.com/s2drag0n/STL-based-speech-contest-process-management-system)
 - ✅ 使用多态实现的职工管理系统-C++: [PolymorphismEmployee](https://github.com/s2drag0n/Employee-Management-System-Based-on-Polymorphism)
   
