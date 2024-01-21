@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently studying in 西安交通大学。
+- 🌱 I’m currently learning C++后台开发相关的知识。
+- 🤔 I’m looking for help with 如何学习才能有效提升自己的工作水平，并找到一份好的工作。
+- 📫 How to reach me: szl001023@gmail.com
+
+### 仓库介绍
+- 📖 当前页面: <herf = "https://github.com/s2drag0n/s2drag0n"> s2drag0n的README </herf>
+- <\herf https://img.shields.io/badge/redis 当前页面: <herf = "https://github.com/s2drag0n/s2drag0n"> s2drag0n的README </herf>
 
 <!--
 **s2drag0n/s2drag0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
