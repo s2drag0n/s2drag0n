@@ -9,9 +9,9 @@
 ### 仓库介绍
 - 📖 当前页面: [s2drag0n的README](https://github.com/s2drag0n/s2drag0n)
 - ✅ redis部分功能实现: [My-Own-Redis](https://github.com/s2drag0n/cpp-my-redis)
-- ✅ C++11线程池: [ThreadPool](https://github.com/s2drag0n/cpp-toy-module/ThreadPool)
-- ✅ 内存池: [MemoryPool](https://github.com/s2drag0n/cpp-toy-module/MemoryPool)
-- ✅ MySQL连接池: [SQLConnectionPool](https://github.com/s2drag0n/cpp-toy-module/SQLConnectionPool)
+- ✅ C++11线程池: [ThreadPool](https://github.com/s2drag0n/cpp-toy-module/tree/main/ThreadPool)
+- ✅ 内存池: [MemoryPool](https://github.com/s2drag0n/cpp-toy-module/tree/main/MemoryPool)
+- ✅ MySQL连接池: [SQLConnectionPool](https://github.com/s2drag0n/cpp-toy-module/tree/main/SQLConnectionPool)
 - ✅ 内存分配器的不同实现: [MemoryAllocators](https://github.com/s2drag0n/cpp-memory-allocators)
 - ✅ 智能指针的简易实现: [SmartPointer](https://github.com/s2drag0n/cpp-smart-ptr-toy)
 - ✅ 带噪联邦学习研究: [FedNoisyLabelLearning](https://github.com/s2drag0n/FedNoisyLabelLearning)
